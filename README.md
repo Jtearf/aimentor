@@ -1,6 +1,22 @@
-# AI Mentor
+# AIMentor - AI-Powered Mentoring Platform
 
-An intelligent AI mentoring application designed to provide personalized learning guidance.
+An AI-powered mentoring platform featuring personas of successful entrepreneurs who provide guidance, answer questions, and evaluate business pitches.
+
+## Features
+
+- Chat with AI personas modeled after successful entrepreneurs
+- Get expert feedback on your business ideas and pitch decks
+- Track conversation history and revisit previous mentoring sessions
+- Subscription-based model with tiered access
+
+## Tech Stack
+
+- **Backend**: FastAPI (Python)
+- **Frontend**: React + TypeScript + Vite
+- **Database**: PostgreSQL via Supabase
+- **AI Integration**: OpenAI API
+- **Authentication**: Supabase Auth
+- **Payment Processing**: Paystack
 
 ## Setup Instructions
 
